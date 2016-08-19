@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab assignment 2</title>
+    <link href="style.css"  rel="stylesheet" >
+</head>
+<body>
+    <div class="task">
+        <div><img src="images/sun.jpg" alt="sun" class="sun-image"></div>
+       <hr/>
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">SERVICES</a></li>
+                <li><a href="#">TOURS</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">CONTACT</a></li>
+                </ul>
+                </nav>
+                <hr/>
+                <div>
+                    <img src="images/picture.jpg" alt="picture" class="main-picture">
+                    </div>
+          <div class="paragraph">
+              Travel & Tourism Sevices since 1973 need no foreward. It has indubitably 
+        tendered it clients with an outstanding one stop travel solution. It offers services
+        for  worldwide journeys, seasonal or occassional trips, hot spots for vacations, umrah and hajj
+        packages and loads more of such travel treats with marvelous shots.
+        </div>
+        <div class="paragraph">  
+            <p>
+                The world is a book, and those who do not travel read only a page. Saint Augistine.
+                </p>
+                </div>    
+</body>
+</html>
